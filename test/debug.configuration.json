@@ -1,0 +1,14 @@
+{
+  "window": {
+    "open_width": 400,
+    "open_height": 590
+  },
+  "templates": [
+      "project@",
+      "campaign@",
+      "jira@",
+      "test.result@pass",
+      "test.result@fail",
+      "test.result@excluded"
+    ]
+}
